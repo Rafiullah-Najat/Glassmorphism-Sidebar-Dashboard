@@ -18,8 +18,7 @@ The project features a glass-style UI, interactive navigation menu, profile sect
 ---
 
 ## 📸 Preview
-
-Add a screenshot or GIF of the project here.
+* Demo:https://rafiullah-najat.github.io/Glassmorphism-Sidebar-Dashboard/
 
 ---
 ## 🛠️ Technologies
